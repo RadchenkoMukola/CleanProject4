@@ -1,0 +1,366 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ecb8915b-0a87-452f-9476-7e7bc32b691f" name="Changes" comment="а">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/results_bert/checkpoint-1107/config.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results_bert/checkpoint-1107/model.safetensors" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results_bert/checkpoint-1107/optimizer.pt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results_bert/checkpoint-1107/rng_state.pth" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results_bert/checkpoint-1107/scheduler.pt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results_bert/checkpoint-1107/trainer_state.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results_bert/checkpoint-1107/training_args.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results_bert/checkpoint-1476/config.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results_bert/checkpoint-1476/model.safetensors" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results_bert/checkpoint-1476/optimizer.pt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results_bert/checkpoint-1476/rng_state.pth" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results_bert/checkpoint-1476/scheduler.pt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results_bert/checkpoint-1476/trainer_state.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results_bert/checkpoint-1476/training_args.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results_bert/checkpoint-1845/config.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results_bert/checkpoint-1845/model.safetensors" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results_bert/checkpoint-1845/optimizer.pt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results_bert/checkpoint-1845/rng_state.pth" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results_bert/checkpoint-1845/scheduler.pt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results_bert/checkpoint-1845/trainer_state.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results_bert/checkpoint-1845/training_args.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results_bert/checkpoint-2214/config.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results_bert/checkpoint-2214/model.safetensors" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results_bert/checkpoint-2214/optimizer.pt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results_bert/checkpoint-2214/rng_state.pth" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results_bert/checkpoint-2214/scheduler.pt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results_bert/checkpoint-2214/trainer_state.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results_bert/checkpoint-2214/training_args.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results_bert/checkpoint-2583/config.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results_bert/checkpoint-2583/model.safetensors" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results_bert/checkpoint-2583/optimizer.pt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results_bert/checkpoint-2583/rng_state.pth" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results_bert/checkpoint-2583/scheduler.pt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results_bert/checkpoint-2583/trainer_state.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results_bert/checkpoint-2583/training_args.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results_bert/checkpoint-2952/config.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results_bert/checkpoint-2952/model.safetensors" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results_bert/checkpoint-2952/optimizer.pt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results_bert/checkpoint-2952/rng_state.pth" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results_bert/checkpoint-2952/scheduler.pt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results_bert/checkpoint-2952/trainer_state.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results_bert/checkpoint-2952/training_args.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results_bert/checkpoint-3321/config.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results_bert/checkpoint-3321/model.safetensors" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results_bert/checkpoint-3321/optimizer.pt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results_bert/checkpoint-3321/rng_state.pth" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results_bert/checkpoint-3321/scheduler.pt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results_bert/checkpoint-3321/trainer_state.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results_bert/checkpoint-3321/training_args.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results_bert/checkpoint-369/config.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results_bert/checkpoint-369/model.safetensors" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results_bert/checkpoint-369/optimizer.pt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results_bert/checkpoint-369/rng_state.pth" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results_bert/checkpoint-369/scheduler.pt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results_bert/checkpoint-369/trainer_state.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results_bert/checkpoint-369/training_args.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results_bert/checkpoint-3690/config.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results_bert/checkpoint-3690/model.safetensors" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results_bert/checkpoint-3690/optimizer.pt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results_bert/checkpoint-3690/rng_state.pth" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results_bert/checkpoint-3690/scheduler.pt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results_bert/checkpoint-3690/trainer_state.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results_bert/checkpoint-3690/training_args.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results_bert/checkpoint-738/config.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results_bert/checkpoint-738/model.safetensors" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results_bert/checkpoint-738/optimizer.pt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results_bert/checkpoint-738/rng_state.pth" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results_bert/checkpoint-738/scheduler.pt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results_bert/checkpoint-738/trainer_state.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results_bert/checkpoint-738/training_args.bin" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;RadchenkoMukola&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/RadchenkoMukola/CleanProject.git&quot;,
+    &quot;accountId&quot;: &quot;50231fbc-536a-436b-8bd2-0b5f9b78548d&quot;
+  }
+}</component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="QODANA_PROBLEMS_VIEW_TAB" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2uRUQoaxWOykK3Wh1In5sRKFb2b" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Python tests.Python tests for 2.TestSearch.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for web.CallbackFormTest.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for web.CallbackFormTest.test_6_3_long_message.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for web.CallbackFormTest.test_6_6_injection_in_message.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for web.FilterTests.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for web.FilterTests.test_all_filters.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for web.FilterTests.test_filter_price_10_50.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for web.FilterTests.test_select_all_filters_sequentially.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for web.FilterTests.test_select_category_cucumbers.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for web.FilterTests.test_sort_by_rating_not_sorted_by_price.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for web.FilterTests.test_sort_price_ascending.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for web.FilterTests.test_sort_price_descending.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for web.RegistrationTests.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for web.RegistrationTests.test_3_1_valid_simple_email_and_password.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for web.RegistrationTests.test_3_2_valid_normal_email_and_password.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for web.RegistrationTests.test_3_3_long_email_and_all_symbols_password.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for web.RegistrationTests.test_3_4_invalid_email.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for web.RegistrationTests.test_3_5_short_password.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for web.RegistrationTests.test_3_6_empty_fields_button_inactive.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for web.RegistrationTests.test_3_6_empty_fields_error_message.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for web.RegistrationTests.test_3_7_overflow_fields.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for web.TestCartFunctionality.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for web.TestCartFunctionality.test_5_1_add_single_product.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for web.TestCartFunctionality.test_5_2_add_three_different_products.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for web.TestCartFunctionality.test_5_3_add_15_products_with_quantity_10.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for web.TestCartFunctionality.test_5_5_add_product_with_zero_quantity.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for web.TestCheckout.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for web.TestCheckout.test_checkout_invalid_phone.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for web.TestCheckout.test_checkout_long_name_comment.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for web.TestCheckout.test_checkout_missing_required_fields.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for web.TestCheckout.test_checkout_nova_poshta_minimal_data.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for web.TestCheckout.test_checkout_script_injection_comment.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for web.TestCheckout.test_checkout_ukrposhta_full_data.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for web.TestSearch.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for web.UserLoginTests.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for web.UserLoginTests.test_9_3_successful_password_recovery_request.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for web.UserLoginTests.test_9_4_password_recovery_nonexistent_email.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for web.UserLoginTests.test_9_4_unsuccessful_password_recovery_request.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for web.UserLoginTests.test_9_5_update_profile_info.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for web.UserLoginTests.test_9_5_update_profile_information.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in 2.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in web.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python.1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.BERT_fine_tune.executor&quot;: &quot;Run&quot;,
+    &quot;Python.BERT_model.executor&quot;: &quot;Run&quot;,
+    &quot;Python.BERT_training_v2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.RoBERTa_fine_tune.executor&quot;: &quot;Run&quot;,
+    &quot;Python.RoBERTa_model.executor&quot;: &quot;Run&quot;,
+    &quot;Python.bert_save.executor&quot;: &quot;Run&quot;,
+    &quot;Python.conv.executor&quot;: &quot;Run&quot;,
+    &quot;Python.datawork.executor&quot;: &quot;Run&quot;,
+    &quot;Python.datawork_2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.eval.executor&quot;: &quot;Run&quot;,
+    &quot;Python.gold+.executor&quot;: &quot;Run&quot;,
+    &quot;Python.left_dictonary.executor&quot;: &quot;Run&quot;,
+    &quot;Python.left_leaning_dictionary.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lf_model_tune.executor&quot;: &quot;Run&quot;,
+    &quot;Python.long_former_model.executor&quot;: &quot;Run&quot;,
+    &quot;Python.model.executor&quot;: &quot;Run&quot;,
+    &quot;Python.parse.executor&quot;: &quot;Run&quot;,
+    &quot;Python.predictions.executor&quot;: &quot;Run&quot;,
+    &quot;Python.right_dictionary.executor&quot;: &quot;Run&quot;,
+    &quot;Python.right_leaning_dictionary.executor&quot;: &quot;Run&quot;,
+    &quot;Python.save_model.executor&quot;: &quot;Run&quot;,
+    &quot;Python.test.executor&quot;: &quot;Run&quot;,
+    &quot;Python.test2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.text_clean.executor&quot;: &quot;Run&quot;,
+    &quot;Python.text_clean_v2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.unif.executor&quot;: &quot;Run&quot;,
+    &quot;Python.weak_labeling.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/kolya/NewsModel/CleanProject&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\kolya\NewsModel\pythonProject7" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.BERT_training_v2">
+    <configuration name="BERT_training_v2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythonProject7" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/models" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/models/BERT_training_v2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="gold+" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythonProject7" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/text_work" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/text_work/gold+.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythonProject7" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test/test2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="unif" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythonProject7" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/text_work" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/text_work/unif.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="weak_labeling" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythonProject7" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/text_work" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/text_work/weak_labeling.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.BERT_training_v2" />
+        <item itemvalue="Python.unif" />
+        <item itemvalue="Python.weak_labeling" />
+        <item itemvalue="Python.gold+" />
+        <item itemvalue="Python.test2" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-348a24fa61fa-5312c7369657-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-251.23774.444" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ecb8915b-0a87-452f-9476-7e7bc32b691f" name="Changes" comment="" />
+      <created>1742210866457</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1742210866457</updated>
+    </task>
+    <task id="LOCAL-00001" summary="а">
+      <option name="closed" value="true" />
+      <created>1747302811072</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1747302811072</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="а" />
+    <option name="LAST_COMMIT_MESSAGE" value="а" />
+  </component>
+</project>
