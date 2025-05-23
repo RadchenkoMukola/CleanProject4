@@ -38,30 +38,3 @@ df.to_csv("allsides_news_standardized.csv", index=False)
 
 with open("allsides_news_standardized.json", "w", encoding="utf-8") as f:
     json.dump(df[["title", "url", "text", "label"]].to_dict(orient="records"), f, ensure_ascii=False, indent=4)
-# 5. Перевірка
-print("Розподіл міток:")
-print(df["label"].value_counts())
-
-df_left_lean = df[df.label == -1]
-df_center = df[df.label == 0]
-df_right_lean = df[df.label == 1]
-
-
-min_len = min(len(df_left_lean), len(df_center), len(df_right_lean))
-
-df_balanced = pd.concat([
-    #resample(sample_df_left, replace=False, n_samples=min_len, random_state=42),
-    resample(df_left_lean, replace=False, n_samples=min_len, random_state=42),
-    resample(df_center, replace=False, n_samples=min_len, random_state=42),
-    resample(df_right_lean, replace=False, n_samples=min_len, random_state=42),
-    #resample(sample_df_right, replace=False, n_samples=min_len, random_state=42),
-]).sample(frac=1).reset_index(drop=True)
-
-df_balanced.to_csv("allsides_news_marked.csv", index=False)
-json_data = df_balanced.to_dict(orient='records')
-
-# Збереження у файл JSON
-with open('allsides_news_marked.json', 'w', encoding='utf-8') as f:
-    json.dump(json_data, f, ensure_ascii=False, indent=2)
-
-print(df_balanced["label"].value_counts())
